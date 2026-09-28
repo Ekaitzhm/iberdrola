@@ -1,0 +1,5 @@
+openai>=1.50
+pydantic-settings>=2.4
+
+# Install our own package (src/rag) in editable mode
+-e .
